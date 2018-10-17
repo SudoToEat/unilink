@@ -3,9 +3,10 @@
 <img src="./logo.png" width="200" align="middle">  
 </p>
 CSE110 ClassProject- Off-campus housing app  
+https://www.youtube.com/watch?v=19JCQ92hmjc  
 
 # Documents  
-https://github.com/SudoToEat/unilink/tree/master/Documents  
+Video: https://github.com/SudoToEat/unilink/tree/master/Documents  
 
 # All Members:
 
